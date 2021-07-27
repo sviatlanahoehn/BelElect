@@ -33,8 +33,23 @@ Every message in the message list is structured as follows:
 "from_id": chanel_id,  
 "text": message_text  
    
-  
+Some messages also contain photos and/or videos:
 
+...   
+"photo": "picture.jpg",   
+"width": 496,   
+"height": 625,   
+... 
+
+...
+"file": "(File not included. Change data exporting settings to download.)",   
+"thumbnail": "(File not included. Change data exporting settings to download.)",
+"media_type": "video_file",   
+"mime_type": "video/mp4",   
+"duration_seconds": seconds_number,   
+"width": 640,   
+"height": 480,   
+...   
 
 ### Reference
 In you use this resource, please cite our paper:
