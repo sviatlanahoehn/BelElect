@@ -25,9 +25,14 @@ In you use this resource, please cite our paper:
 S. Höhn, N. Asher, S. Mauw. (2021) Examining Linguistic Biases in Telegram with a Game Theoretic Analysis. In proceedings of the 3rd Multidisciplinary International Symposium on Disinformation in Open Online Media (MISDOOM).
 
 @inproceedidngs{hoehnetal:2021:misdoom,
+
 author  = {H\"{o}hn, Sviatlana and Asher, Nicholas and Mauw, Sjouke},
+
  year  = {2021},
+ 
  title  = { Examining Linguistic Biases in Telegram with a Game Theoretic Analysis},
+ 
  booktitle  = {Proceedings of the 3rd Multidisciplinary International Symposium on Disinformation in Open Online Media (MISDOOM)}
+ 
 }
 
