@@ -16,7 +16,24 @@ BelElect corpus has been created from Telegram posts on Belorussian chanels:
 The data have been downloaded using the built-in function of the Telegram messenger. Date of download: 15.04.2021. Data from all channels contain posts from 1.08.2020 to 14.04.2021.
 The image and video download limited to 8 MB.
 
-### Annotations
+### Format
+The built-in chat download function of the Telegram messenger offers two option for download: HTML or JSON format. We chose JSON for this corpus.
+The JSON-files start with channel metadata:
+"name": "channel_name",  
+ "type": "public_channel",  
+ "id": channel-id-number,  
+ "messages": []  
+
+Every message in the message list is structured as follows:
+"id": message_id_number,  
+"type": "message",  
+"date": message_date,  
+"edited": date_edited,  
+"from": chanel_name,  
+"from_id": chanel_id,  
+"text": message_text  
+   
+  
 
 
 ### Reference
