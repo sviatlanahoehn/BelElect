@@ -18,13 +18,14 @@ The image and video download limited to 8 MB.
 
 ### Format
 The built-in chat download function of the Telegram messenger offers two option for download: HTML or JSON format. We chose JSON for this corpus.
-The JSON-files start with channel metadata:
+
+The JSON-files start with channel metadata:   
 "name": "channel_name",  
  "type": "public_channel",  
  "id": channel-id-number,  
  "messages": []  
 
-Every message in the message list is structured as follows:
+Every message in the message list is structured as follows:   
 "id": message_id_number,  
 "type": "message",  
 "date": message_date,  
@@ -41,7 +42,7 @@ Some messages also contain photos and/or videos:
 "height": 625,   
 ... 
 
-...
+...   
 "file": "(File not included. Change data exporting settings to download.)",   
 "thumbnail": "(File not included. Change data exporting settings to download.)",
 "media_type": "video_file",   
