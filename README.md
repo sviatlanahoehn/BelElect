@@ -54,6 +54,8 @@ Some messages also contain photos and/or videos:
 "height": 480,  
 ...  
 
+A copy of the data can be obtained [here](https://drive.google.com/file/d/1f-I4nQpA5w4jy7NabRxAOKDDc-GNnVnB/view?usp=sharing).
+
 ### Reference
 
 In you use this resource, please cite our [paper]:
