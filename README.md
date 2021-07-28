@@ -56,7 +56,7 @@ Some messages also contain photos and/or videos:
 
 ### Reference
 
-In you use this resource, please cite our paper:
+In you use this resource, please cite our [paper]:
 
 S. Höhn, N. Asher, S. Mauw. (2021) Examining Linguistic Biases in Telegram with a Game Theoretic Analysis. In proceedings of the 3rd Multidisciplinary International Symposium on Disinformation in Open Online Media (MISDOOM).
 
