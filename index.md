@@ -52,6 +52,8 @@ Some messages also contain photos and/or videos:
 "height": 480,   
 ...   
 
+You can download the data [here](https://github.com/sviatlanahoehn/BelElect/blob/main/README.md)
+
 ### Reference
 In you use this resource, please cite our paper:
 
